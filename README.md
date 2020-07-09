@@ -1,16 +1,13 @@
-### Hi there 👋
+### About Me
 
-<!--
-**alirezanazari/alirezanazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi . I'm <b>Alireza Nazari</b> . I'm 22 years old and Working as an <b>Android Developer</b> at <b>Mobillet</b> (FinTech Company).<br>
+I experienced Working on iGap (Iranian Messenger with ~5 millions user) and Netbar (Transportaion startup).<br>
+I studied Software Engineering at Shamsipour university.<br><br>
+I love coding in Java, Kotlin and Flutter, and contribute on open source projects.<br>
 
-Here are some ideas to get you started:
+### Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Email : a.alirezanazari@gmail.com
+* Twitter : twitter.com/ali_rezanazari
+* Telegram : t.me/ali_rezanazari
+* Linkedin : linkedin.com/in/alireza-nazari
