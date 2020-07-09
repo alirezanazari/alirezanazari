@@ -8,6 +8,6 @@ I love coding in Java, Kotlin and Flutter, and contribute on open source project
 ### Contact Me
 
 * Email : a.alirezanazari@gmail.com
-* Twitter : twitter.com/ali_rezanazari
-* Telegram : t.me/ali_rezanazari
-* Linkedin : linkedin.com/in/alireza-nazari
+* Twitter : <a href="twitter.com/ali_rezanazari">twitter.com/ali_rezanazari</a>
+* Telegram : <a href="t.me/ali_rezanazari">t.me/ali_rezanazari</a>
+* Linkedin : <a href="linkedin.com/in/alireza-nazari">linkedin.com/in/alireza-nazari</a>
